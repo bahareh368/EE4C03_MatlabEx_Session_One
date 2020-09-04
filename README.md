@@ -1,6 +1,6 @@
 # EE4C03 STATISTICAL DIGITAL SIGNAL PROCESSING AND MODELING: Exercise Session N.01
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MCoutino/EE4C03_MatlabEx_Session_One/master?filepath=https%3A%2F%2Fgithub.com%2FMCoutino%2FEE4C03_MatlabEx_Session_One%2Fblob%2Fmaster%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MCoutino/EE4C03_MatlabEx_Session_One/2f6298994f38c06fe7203b40120b0fa90b3bd7da?filepath=index.ipynb)
 
 First Matlab exercise session notebook for EE4C03 using the free alternative [Octave](https://www.gnu.org/software/octave/) for scientific computing.
 
